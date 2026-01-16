@@ -1,0 +1,6 @@
+tweepy
+pandas
+nltk
+textblob
+pymongo
+matplotlib
